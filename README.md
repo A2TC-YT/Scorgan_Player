@@ -9,7 +9,7 @@
 1. **Download the Files:** Click the green **Code** button on this page and select **Download ZIP**.
 2. **Extract the Files:** Unzip the downloaded folder.
 3. **Run the Macro:**
-   - Open the `.ahk` file with AutoHotkey.
+   - Open the `scorgan.ahk` file with AutoHotkey.
    - Divinity works best for this but anything with very little recoil drift and high ammo count should work as well.
    - Stand in the following location: ![Location Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_center.png)
    - Look at this point: ![Look Direction Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_aim.png)
