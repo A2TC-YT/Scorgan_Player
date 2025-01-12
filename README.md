@@ -10,10 +10,12 @@
 2. **Extract the Files:** Unzip the downloaded folder.
 3. **Run the Macro:**
    - Open the `.ahk` file with AutoHotkey.
-   - Stand in the following location: ![Location Image](location.png)
-   - Look at this point: ![Look Direction Image](look_here.png)
+   - Divinity works best for this but anything with very little recoil drift and high ammo count should work as well.
+   - Stand in the following location: ![Location Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_center.png)
+   - Look at this point: ![Look Direction Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_aim.png)
    - Press **F3** to open the song selection window.
-   - Select a song and BPM: ![Song Selection Image](song_selection.png)
+   - Select a song and BPM: ![Song Selection Image]([song_selection.png](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_menu.png))
+   - Press `PLAY`.
 
 ---
 
@@ -28,7 +30,7 @@ You can add custom songs by creating a `.txt` file in the same folder as the scr
 
 ### **Explanation:**
 - Each note is written as `[Note, Duration]`.
-- **Notes:** `C, Cs (C♯), Db, D, Ds, Eb, E, F, Fs, Gb, G, Gs, Ab, A, As, Bb, B, Ch` (Ch is the second C note on the far right side of teh scorgan)
+- **Notes:** `C, Cs (C♯), Db, D, Ds, Eb, E, F, Fs, Gb, G, Gs, Ab, A, As, Bb, B, Ch` (Ch is the second C note on the far right side of the scorgan)
 - **Durations:**
   - `0.25` = Quarter note
   - `0.5` = Half note
