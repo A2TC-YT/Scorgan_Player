@@ -14,8 +14,9 @@
    - Stand in the following location: ![Location Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_center.png)
    - Look at this point: ![Look Direction Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_aim.png)
    - Press **F3** to open the song selection window.
-   - Select a song and BPM: ![Song Selection Image]([song_selection.png](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_menu.png))
-   - Press `PLAY`.
+   - Select a song and BPM:
+   - ![Song Selection Image](https://github.com/A2TC-YT/Scorgan_Player/blob/main/images/scorgan_menu.png)
+   - Press `Play`.
 
 ---
 
