@@ -51,3 +51,8 @@ You can add custom songs by creating a `.txt` file in the same folder as the scr
 
 ## Epilepsy Warning
 This macro causes rapid camera movements and flashing visuals. Viewer discretion is advised.
+
+---
+
+## Support Me
+If you like what I do you can support me on [Ko-Fi](https://ko-fi.com/a2tc_awesome_guy) <3
