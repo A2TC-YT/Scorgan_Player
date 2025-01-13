@@ -41,7 +41,7 @@ You can add custom songs by creating a `.txt` file in the same folder as the scr
 - **Rests:** Use `[0, Duration]` for a rest.
 
 ### **Credit:**
-- All current songs were transposed by **Jellyback Joe**. He takes Scorgan song requests on [Twitter](https://x.com/JellybackJoe). You should also check out his other linke: [Twitch](https://www.twitch.tv/jellybackjoe), [Destiny Channel](https://www.youtube.com/@jellybackjoe), [Music Channel](https://www.youtube.com/@jhfcomposer)
+- All current songs were transcribed by **Jellyback Joe**. He takes Scorgan song requests on [Twitter](https://x.com/JellybackJoe). You should also check out his other linke: [Twitch](https://www.twitch.tv/jellybackjoe), [Destiny Channel](https://www.youtube.com/@jellybackjoe), [Music Channel](https://www.youtube.com/@jhfcomposer)
 
 ---
 
